@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Il title è fondamentale per la SEO [non superare i 60 caratteri] -->
+    <title>Portfolio Full Stack</title>
+    <!-- Qui si puo inserire un massimo di 130 caratteri -->
+    <!-- Se la descrizione finisce con il punto a quanto pare a google piace -->
+    <meta name="description" content="Lorem ipsum dolor sit amet consectetur adipisicing 
+    elit. Dolorem dolorum ut pariatur, commodi obcaecati ullam quaerat totam impedit
+     perferendis ducimus doloribus neque eos et illum expedita, dolores numquam? 
+     Optio odit id obcaecati laboriosam officia odio minima sequi? Animi a 
+     possimus minima expedita. Itaque debitis, nostrum quas quae temporibus iste minima.">
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/textrotator/simpletextrotator.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div id="hero">
+        <div class="container">
+            <h1 class="text-uppercase animate__animated animate__fadeInDown">
+                J<span class="text-red">o</span>hn<br>
+                <span class="text-gray">D<span class="text-yellow">o</span>e</span>
+            </h1>
+            <h3 class="text-uppercase animate__animated animate__fadeInUp animate__delay-1s"><span class="rotate">Web Designer, Photographer, 3D Artist</span></h3>
+         </div>
+    </div>
+
+    <div id="about" class="bg-red text-center">
+        <h3 class="text-uppercase arrow">A little <span class="text-yellow">about</span> you</h3>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js" integrity="sha512-h9kKZlwV1xrIcr2LwAPZhjlkx+x62mNwuQK5PAu9d3D+JXMNlGx8akZbqpXvp0vA54rz+DrqYVrzUGDMhwKmwQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="assets/textrotator/jquery.simple-text-rotator.js"></script>
+    <script>
+       $('.rotate').textrotator({
+            animation: 'fade',
+            separator: ',',
+            speed: 2000
+        });
+    </script>
+</body>
+</html>

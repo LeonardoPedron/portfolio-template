@@ -1,0 +1,25 @@
+## PUNTI PER INZIARE A FARE UN SITO PER UN CLIENTE
+
+1. Iniziare a fare l'alberatura del sito 
+    - Contenuti del sito
+    - Come vuole che l'utente sia organizzato il contenuto
+2. Fare un WIREFRAME anche a penna o con un software grafico / progettare un layout grafico
+    - Una volta che ho una pseudo bozza grafica mando direttamente al cliente
+      per far vedere come verrebbe il sito
+    - Farsi firmare la bozza grafica (avere sempre una conferma effettiva e scritta dal cliente)
+3. Guardare approfonditamente la bozza garfica 
+
+PS: Implementare il programma HOTJAR per capire dove navigano gli utenti 
+
+## CONSIGLI UTILI DA APPLICARE
+
+[Attenzione sempre ai contenuti che vengono inseriti]
+[Quando si fa un sito, si deve fare il sito che piaccia al cliente e non a noi che facciamo il sito]
+[Cliente deve essere sempre seguito]
+[Madare sempre una mail riepilogativa ad ogni incontro con il cliente con in allegato sempre il progetto (mi raccomando sempre file .jpg)]
+[Massimo 2/3 fonts per un sito mai averne di più]
+[h1 ci deve essere sempre nella pagina ma mai essere ripetuto]
+[crare delle classi che rendono standar le dimensioni e spazzi degli elementi]
+[creare delle variabili colori in css]
+[Avere sempre degli elementi fissi che rendano piu navigabile il sito]
+[Avere sempre le info dell'azienda nel footer con indirizzo, iva ecc...]
